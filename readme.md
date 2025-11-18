@@ -39,7 +39,7 @@ Las guías están divididas por carpetas, según el área o curso correspondient
 
 <p align="center">
   <a href="https://youtu.be/-KsS-6oNk6c" target="_blank">
-    ▶️ Haga clic aquí para ver el video en YouTube
+    Vista previa del módulo
   </a>
 </p>
 
@@ -50,7 +50,7 @@ Las guías están divididas por carpetas, según el área o curso correspondient
   (Carpeta reservada para el próximo curso orientado a Python + IA + Seguridad + OSINT.  
   Aún vacía mientras se desarrolla el contenido.)
 
-Cada carpeta incluye su propio README con detalles específicos del curso.
+Cada carpeta incluye su propia guia/curso.
 
 ## Estado del repositorio
 - Las **guías finalizadas** estarán visibles dentro de sus carpetas correspondientes.  

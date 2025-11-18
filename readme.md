@@ -1,7 +1,7 @@
 # 📘 Cursos y Guías de Python – Ors4Tech
 
 En este repositorio encontrarás una colección de guías, cursos y materiales técnicos que he elaborado en mis propios tiempos de estudio e investigación.  
-No soy programador de escritorio ni desarrollador de software tradicional; mi trabajo diario abarca diferentes áreas de la informática, desde hardware, software soporte, hasta administración de sistemas, redes y mas.  
+No soy programador de escritorio ni desarrollador de software tradicional; mi trabajo diario abarca diferentes áreas de la informática, desde hardware, software, soporte, administración de sistemas, redes y mas.  
 Ese recorrido me convirtió en un aficionado apasionado por aprender, experimentar y compartir lo que voy descubriendo.
 
 ## 📚 ¿Qué encontrarás aquí?

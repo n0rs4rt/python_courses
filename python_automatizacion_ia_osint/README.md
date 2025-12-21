@@ -61,18 +61,17 @@ Además, la guía cuenta con acceso a un **modelo tipo GPT configurado con el co
 
 > La IA se utiliza como herramienta de apoyo, no como sustituto del razonamiento técnico.
 
+
 <p align="center">
-  <a href="httpc" target="_blank">
-    <img src="https://m/vi/-KsS-6oNk6c/maxresdefault.jpg" 
-         alt="Demo Video" 
-         width="800">
+  <a href="#" title="Video disponible próximamente">
+    <img src="https://github.com/n0rs4rt/Python_Guides/raw/a233d853a4e3935ca1c484238b0940a878c98c01/guia%20python.png" 
+         alt="Vista previa del video" 
+         width="480">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://y6c" target="_blank">
-    Vista previa del módulo
-  </a>
+  Vista previa del módulo
 </p>
 
 ---

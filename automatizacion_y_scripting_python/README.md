@@ -1,4 +1,19 @@
 # 📘 Automatización y Scripting con Python para Administración de Sistemas
+---
+<p align="center">
+  <a href="https://youtu.be/-KsS-6oNk6c" target="_blank">
+    <img src="https://img.youtube.com/vi/-KsS-6oNk6c/maxresdefault.jpg" 
+         alt="Demo Video" 
+         width="800">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/-KsS-6oNk6c" target="_blank">
+    Vista previa del módulo
+  </a>
+</p>
+
 
 Esta guía ha sido diseñada para personas que desean **usar Python como una herramienta real de trabajo**, no como un lenguaje académico lleno de ejemplos irreales.
 
@@ -53,20 +68,6 @@ Este asistente está pensado para ayudarte a:
 > Como toda IA, puede cometer errores.  
 > Se recomienda usarla como apoyo, no como sustituto del razonamiento.
 
----
-<p align="center">
-  <a href="https://youtu.be/-KsS-6oNk6c" target="_blank">
-    <img src="https://img.youtube.com/vi/-KsS-6oNk6c/maxresdefault.jpg" 
-         alt="Demo Video" 
-         width="800">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://youtu.be/-KsS-6oNk6c" target="_blank">
-    Vista previa del módulo
-  </a>
-</p>
 ---
 
 ## 📚 Guía complementaria recomendada

@@ -1,15 +1,17 @@
 # 📘 Python aplicado a Automatización e Inteligencia Artificial
 
 <p align="center">
-  <a href="#" title="Video disponible próximamente">
-    <img src="https://github.com/n0rs4rt/Python_Guides/raw/a233d853a4e3935ca1c484238b0940a878c98c01/guia%20python.png" 
+  <a href="https://youtu.be/kpYpY5JEfoI" target="_blank">
+    <img src="https://img.youtube.com/vi/kpYpY5JEfoI/maxresdefault.jpg" 
          alt="Vista previa del video" 
          width="800">
   </a>
 </p>
 
 <p align="center">
-  Vista previa del módulo
+  <a href="https://youtu.be/kpYpY5JEfoI" target="_blank">
+    Ver video de presentación
+  </a>
 </p>
 
 

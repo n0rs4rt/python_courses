@@ -1,5 +1,18 @@
 # 📘 Python aplicado a Automatización e Inteligencia Artificial
 
+<p align="center">
+  <a href="#" title="Video disponible próximamente">
+    <img src="https://github.com/n0rs4rt/Python_Guides/raw/a233d853a4e3935ca1c484238b0940a878c98c01/guia%20python.png" 
+         alt="Vista previa del video" 
+         width="800">
+  </a>
+</p>
+
+<p align="center">
+  Vista previa del módulo
+</p>
+
+
 Esta guía está orientada al uso **profesional y práctico de Python** para desarrollar herramientas reales de automatización, análisis, seguridad e integración de inteligencia artificial.
 
 El contenido está pensado para personas que ya trabajan (o quieren trabajar) con Python en entornos reales, y que desean ir más allá de scripts básicos, integrando **argumentos por consola, logging avanzado, IA mediante API, OSINT, hashing y validación de integridad**.
@@ -60,19 +73,6 @@ Además, la guía cuenta con acceso a un **modelo tipo GPT configurado con el co
 - Entender mejor los ejemplos y scripts
 
 > La IA se utiliza como herramienta de apoyo, no como sustituto del razonamiento técnico.
-
-
-<p align="center">
-  <a href="#" title="Video disponible próximamente">
-    <img src="https://github.com/n0rs4rt/Python_Guides/raw/a233d853a4e3935ca1c484238b0940a878c98c01/guia%20python.png" 
-         alt="Vista previa del video" 
-         width="800">
-  </a>
-</p>
-
-<p align="center">
-  Vista previa del módulo
-</p>
 
 ---
 

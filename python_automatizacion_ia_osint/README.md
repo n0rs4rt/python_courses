@@ -66,7 +66,7 @@ Además, la guía cuenta con acceso a un **modelo tipo GPT configurado con el co
   <a href="#" title="Video disponible próximamente">
     <img src="https://github.com/n0rs4rt/Python_Guides/raw/a233d853a4e3935ca1c484238b0940a878c98c01/guia%20python.png" 
          alt="Vista previa del video" 
-         width="480">
+         width="800">
   </a>
 </p>
 
